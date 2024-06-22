@@ -8,6 +8,7 @@ A personal project that utilizes AWS and Twilio to send out text messages to sub
 - [Features](#features)
 - [Subscription](#Subscription)
 - [Privacy Policy](#privacy-policy)
+- [In Action](#in-action)
 - [How It Works](#how-it-works)
 - [Prerequisites](#prerequisites)
 - [Create Lambda Functions](#create-lambda-functions)
@@ -36,6 +37,15 @@ Text "GOD IS GOOD" to +1 (888) 417-9745
 
 ## Privacy Policy
 The privacy policy, as required by Twilio can be found in the following public link: https://docs.google.com/document/d/1IskYP63QBHA5z6dQ1lcupeykNZ94Wl0_hqzeZpGL9hY/edit?usp=sharing
+
+## In Action
+As a preview (and proof that this works) I have supplied some screenshots of the messages send to subscribed users and how the subscribing and unsubscribing system works/looks like
+
+![IMG_2876](https://github.com/frudakisk/DailyBibleSMS/assets/52004052/df550b30-9e8c-4910-8e21-a4e3e82ee14a)
+![IMG_2877](https://github.com/frudakisk/DailyBibleSMS/assets/52004052/fa9feb07-1a21-4fb0-a4fc-970927904917)
+![IMG_2879](https://github.com/frudakisk/DailyBibleSMS/assets/52004052/e6027aa9-57f7-44d7-a773-59d472afb2f4)
+
+
 
 ## How It Works
 In this section, I will go over how this whole system works so that other developers can create similar projects without having to go through all the headaches I went through.
