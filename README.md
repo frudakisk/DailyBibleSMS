@@ -59,6 +59,7 @@ Packages that are required include the following. Use the CLI command of ```dotn
 1. AWSSDK.DynamoDBv2
 2. Twilio
 3. Newtonsoft.Json
+4. Amazon.Lambda.APIGatewayEvents
 
 It is also recommended to install the following templates using the CLI command of ```dotnet new -i XXX```:
 1. Amazon.Lambda.Templates
